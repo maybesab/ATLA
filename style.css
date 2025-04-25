@@ -847,7 +847,7 @@ footer span {
         font-size: 90%;
     }
     .hero-parallax {
-      display: none;
+      /* display: none; */
     }
     .hero-content {
         padding: 2rem;
