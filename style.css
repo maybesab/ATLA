@@ -847,13 +847,13 @@ footer span {
         font-size: 90%;
     }
     .hero-parallax {
-        .hero-parallax {
+   
             height: 40vh; /* Much smaller but still visible */
             background-attachment: scroll; /* no fixed background on mobile */
             background-size: cover;
             background-position: center;
           }
-    }
+    
     .hero-content {
         padding: 2rem;
     }
